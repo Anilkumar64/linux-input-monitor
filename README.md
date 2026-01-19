@@ -139,8 +139,3 @@ Replace shell script with --list C++ option
 
 Anil Kumar (Anilkumar64)
 Linux systems programming learner with a focus on low-level I/O and kernel interfaces.
-
-
-Help you write a resume bullet based on this project
-
-You built something real. Keep going.
